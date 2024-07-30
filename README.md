@@ -1,2 +1,2 @@
 # dbx_test
-just random play around with dbx platform
+just a notebook with binary search 
